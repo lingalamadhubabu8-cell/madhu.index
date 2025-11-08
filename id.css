@@ -1,0 +1,58 @@
+.parent{
+    border: 1px solid rgba(13, 99, 238, 0.979);
+    display: flex; 
+    width: 900px;
+    border-radius: 20%;
+    background-color: rgb(170, 23, 23);
+    margin-left: 50px;
+}
+.parent img{
+    width: 200px;
+    height:200px;
+}
+.parent h4{
+    font-size: 60px;
+
+
+}3{
+    font-size:50px
+}
+.kl{
+     border: 1px solid rgba(20, 47, 184, 0);
+    
+     
+
+     width: 1000px;
+
+
+}
+.kl img{
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    border: 1px solid rgb(226, 220, 222);
+    margin-left: 250px;
+    border: 5px solid red;
+}
+h3{
+    font-size: 60px;
+    
+}
+h3{
+    margin-right:250px
+}
+.mm{
+    border: 2px solid black;
+    width: 1000px;
+    border-radius: 10%;
+    background-color: rgb(26, 14, 194);
+    justify-content: center;
+}
+p{
+    font-size: 20px;
+}
+.tr{
+    margin-left: 500px;
+}
+
+

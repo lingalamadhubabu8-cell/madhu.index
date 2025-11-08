@@ -1,0 +1,125 @@
+
+
+
+a {
+            text-decoration: none;
+            padding: 30px;
+        }
+
+        div {
+            position: relative;
+            display: flex;
+
+        }
+
+        main {
+            display: flex;
+
+        }
+
+        sub {
+            display: flex;
+        }
+
+        parent {
+            display: flex;
+        }
+        *{
+            margin:0%
+            padding:0%
+            font-family:sans-serif
+            font: size 16px;
+            color:-moz-only-whitespace;
+        }
+        .footer{
+            background-color: blue;
+            padding-top: 50px;
+        }
+        .container{
+        width: 1140px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+
+        }
+        .footer{
+            width: 33.3%;
+        }
+        .h3{
+         font: size 28px; 
+         margin-bottom: 15px;
+        }
+        .footer-content p{
+            text-align: center;
+            display: flex;
+
+        }
+        .list{
+            padding: 0;
+        }
+        .list li{
+        width: auto;
+        text-align: center;
+        list-style-type-none;
+        padding: 2px;
+        position: relative;
+
+        }
+        .list li ::before{}
+    content:'';
+    position: absolute;
+    transform:translate;
+    left:50px;
+    top:100px;
+    height: 2px;
+    width:0%;
+    background: #fff;
+    transition-duration: 0.5s;
+
+        }
+        .list li:hover ::before{
+            width:70%;
+
+        }
+        .social-icons{
+        text-align: center;
+        padding: 5px;
+
+        }
+        .social-icons i{
+            color: aliceblue;
+            font-size: 25px;
+
+        }
+        .a{
+            text-decoration: none;
+        }
+        .a:hover{
+            color: red;
+        }
+        .social-icons i:hover{
+            color: red;
+
+        }
+        .child{
+            background-color: rgb(66, 30, 223);
+            text=aline:center;
+            padding: 10px;
+            margin-top: 50px;
+        }
+
+            .bottom-bar{
+            color: white;
+            margin: ;
+            font-size: 14px;
+            padding: ;
+          
+        
+
+        }
+        .th:hover{
+
+            color: red;
+        }
+
+

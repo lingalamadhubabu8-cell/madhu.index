@@ -1,0 +1,49 @@
+.main{
+    text-decoration: none;
+    color: red;
+    font-size: 29px;
+    position: relative;
+    top: 22px;
+    
+    background-color: hsl(135, 42%, 50%);
+    display: flex;
+
+
+}
+.new {
+    background-color: green;
+    display: block;
+    unicode-bidi: isolate;
+    float: right 150px;
+
+
+
+}
+a{
+    margin-left:950px;
+    
+}
+i{
+    font-size: large;
+    
+    
+}
+hover{
+    background-color: rgb(18, 204, 101);
+}
+
+.child{
+background-image: url(id\ 2.jfif);
+background-size: cover;
+width: 1500px; height: 750px;
+
+}
+.new{
+
+
+}
+    
+
+
+
+
